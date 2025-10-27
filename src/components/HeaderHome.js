@@ -1,4 +1,4 @@
-import { Text, View } from 'react-native-web'
+import { Text, View } from 'react-native'
 import BotonFormulario from './BotonFormulario'
 import { useNavigation } from '@react-navigation/native'
 import { estilosHeader } from '../styles/estilosHeader'

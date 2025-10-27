@@ -1,4 +1,4 @@
-import { Text, View } from 'react-native-web'
+import { Text, View } from 'react-native'
 import { estilosEstadisticasHome } from '../styles/estilosEstadisticasHome'
 
 export default function EstadisticasHome ({ tareas }) {

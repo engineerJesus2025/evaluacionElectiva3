@@ -1,6 +1,6 @@
 // import { StyleSheet } from 'react-native'
 
-import { Text, View } from 'react-native-web'
+import { Text, View } from 'react-native'
 import BotonFormulario from './BotonFormulario'
 
 import { InputFormulario, CheckboxFormulario } from './InputsFormulario'

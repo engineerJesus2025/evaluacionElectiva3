@@ -1,5 +1,5 @@
 /* eslint-disable react/jsx-closing-tag-location */
-import { Text, View } from 'react-native-web'
+import { Text, View } from 'react-native'
 import BotonFormulario from './BotonFormulario'
 
 import { useListaTareas } from '../hooks/useListaTareas'
